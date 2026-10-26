@@ -1,0 +1,7 @@
+{
+  "name": "News Classifier",
+  "description": "AI-Powered News Analysis and Classification Dashboard using NLP and Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
